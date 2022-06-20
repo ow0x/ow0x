@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://ripgvc.herokuapp.com/?username=ow0x&color=ff69b4&round)
+
 <!--
 **ow0x/ow0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
